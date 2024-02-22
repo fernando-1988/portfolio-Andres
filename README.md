@@ -1,3 +1,7 @@
-# My Portfolio
+# Portfolio Andres Rivera
 
-[Ver portfolio](https://fernando-1988.github.io/portfolio)
+Este portfolio es solo un ejemplo
+Los datos no son reales
+¡Gracias!🙂
+
+[Ver portfolio](https://fernando-1988.github.io/portfolio-Andres)
